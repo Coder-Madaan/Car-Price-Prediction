@@ -19,3 +19,7 @@ This project is a Car Price Predictor application that estimates the price of a 
    ```bash
    git clone https://github.com/yourusername/car-price-predictor.git
    cd car-price-predictor
+   
+2. **Run the Flak app after downloading dependencies:**
+```bash
+   python app.py
